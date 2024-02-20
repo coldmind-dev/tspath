@@ -2,7 +2,7 @@
 	"name": "tspath",
 	"version": "2.6.2",
 	"description": "TypeScript path alias resolver, re-writes JS files with relative paths according to @paths specified in tsconfig",
-	"license": "LGPL-2.1",
+	"license": "Mozilla-2.0",
 	"scripts": {
 		"copy": "copyfiles package.json lib",
 		"tspath": "node ./tspath.js"
